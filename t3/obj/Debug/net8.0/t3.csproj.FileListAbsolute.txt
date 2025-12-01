@@ -1,0 +1,15 @@
+/workspaces/thisCSharp/t3/bin/Debug/net8.0/t3
+/workspaces/thisCSharp/t3/bin/Debug/net8.0/t3.deps.json
+/workspaces/thisCSharp/t3/bin/Debug/net8.0/t3.runtimeconfig.json
+/workspaces/thisCSharp/t3/bin/Debug/net8.0/t3.dll
+/workspaces/thisCSharp/t3/bin/Debug/net8.0/t3.pdb
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.AssemblyInfoInputs.cache
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.AssemblyInfo.cs
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.csproj.CoreCompileInputs.cache
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.sourcelink.json
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.dll
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/refint/t3.dll
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.pdb
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/t3.genruntimeconfig.cache
+/workspaces/thisCSharp/t3/obj/Debug/net8.0/ref/t3.dll

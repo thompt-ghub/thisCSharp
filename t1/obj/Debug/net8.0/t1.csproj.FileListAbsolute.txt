@@ -1,0 +1,15 @@
+/workspaces/thisCSharp/t1/bin/Debug/net8.0/t1
+/workspaces/thisCSharp/t1/bin/Debug/net8.0/t1.deps.json
+/workspaces/thisCSharp/t1/bin/Debug/net8.0/t1.runtimeconfig.json
+/workspaces/thisCSharp/t1/bin/Debug/net8.0/t1.dll
+/workspaces/thisCSharp/t1/bin/Debug/net8.0/t1.pdb
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.AssemblyInfoInputs.cache
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.AssemblyInfo.cs
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.csproj.CoreCompileInputs.cache
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.sourcelink.json
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.dll
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/refint/t1.dll
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.pdb
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/t1.genruntimeconfig.cache
+/workspaces/thisCSharp/t1/obj/Debug/net8.0/ref/t1.dll
